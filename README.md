@@ -3,6 +3,6 @@
 I'm Ender — professional noodle🍜 from Taiwan 🇹🇼<br>
 Working in firmware related field, coding and solving problems in my free time.
 
-![Animation](.asset/Animation_640.gif)
+![Animation](.asset/Animation.webp)
 
 I don't accept donations, if the stuff that I made helped you, give a ⭐ or a well-written issue is more than enough! :D
